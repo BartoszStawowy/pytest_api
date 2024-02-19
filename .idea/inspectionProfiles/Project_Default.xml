@@ -1,0 +1,69 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="47">
+            <item index="0" class="java.lang.String" itemvalue="multiprocess" />
+            <item index="1" class="java.lang.String" itemvalue="Pillow" />
+            <item index="2" class="java.lang.String" itemvalue="urllib3" />
+            <item index="3" class="java.lang.String" itemvalue="chardet" />
+            <item index="4" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="5" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="6" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="7" class="java.lang.String" itemvalue="requests" />
+            <item index="8" class="java.lang.String" itemvalue="pandas" />
+            <item index="9" class="java.lang.String" itemvalue="dnspython" />
+            <item index="10" class="java.lang.String" itemvalue="slacker" />
+            <item index="11" class="java.lang.String" itemvalue="traceback2" />
+            <item index="12" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="13" class="java.lang.String" itemvalue="html5lib" />
+            <item index="14" class="java.lang.String" itemvalue="emoji" />
+            <item index="15" class="java.lang.String" itemvalue="pyPDF2" />
+            <item index="16" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="17" class="java.lang.String" itemvalue="cffi" />
+            <item index="18" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="19" class="java.lang.String" itemvalue="defusedxml" />
+            <item index="20" class="java.lang.String" itemvalue="pycparser" />
+            <item index="21" class="java.lang.String" itemvalue="tinycss2" />
+            <item index="22" class="java.lang.String" itemvalue="CairoSVG" />
+            <item index="23" class="java.lang.String" itemvalue="selenium" />
+            <item index="24" class="java.lang.String" itemvalue="certifi" />
+            <item index="25" class="java.lang.String" itemvalue="pox" />
+            <item index="26" class="java.lang.String" itemvalue="lxml" />
+            <item index="27" class="java.lang.String" itemvalue="retry" />
+            <item index="28" class="java.lang.String" itemvalue="WeasyPrint" />
+            <item index="29" class="java.lang.String" itemvalue="cssselect2" />
+            <item index="30" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="31" class="java.lang.String" itemvalue="six" />
+            <item index="32" class="java.lang.String" itemvalue="pyperclip" />
+            <item index="33" class="java.lang.String" itemvalue="cairocffi" />
+            <item index="34" class="java.lang.String" itemvalue="unittest2" />
+            <item index="35" class="java.lang.String" itemvalue="PyYaml" />
+            <item index="36" class="java.lang.String" itemvalue="dill" />
+            <item index="37" class="java.lang.String" itemvalue="Pyphen" />
+            <item index="38" class="java.lang.String" itemvalue="click" />
+            <item index="39" class="java.lang.String" itemvalue="curlify" />
+            <item index="40" class="java.lang.String" itemvalue="ppft" />
+            <item index="41" class="java.lang.String" itemvalue="linecache2" />
+            <item index="42" class="java.lang.String" itemvalue="tika" />
+            <item index="43" class="java.lang.String" itemvalue="webencodings" />
+            <item index="44" class="java.lang.String" itemvalue="idna" />
+            <item index="45" class="java.lang.String" itemvalue="requests-toolbelt" />
+            <item index="46" class="java.lang.String" itemvalue="openpyxl" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tuple.send_keys" />
+          <option value="steps.frontend.FrontendSteps.verify_modal_table_rows_content" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
